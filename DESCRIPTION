@@ -1,7 +1,7 @@
 Package: R4RNA
 Type: Package
 Title: An R package for RNA visualization and analysis
-Version: 1.8.0
+Version: 1.9.0
 Date: 2015-11-02
 Author: Daniel Lai, Irmtraud Meyer <irmtraud.meyer@cantab.net>
 Maintainer: Daniel Lai <jujubix@cs.ubc.ca>
